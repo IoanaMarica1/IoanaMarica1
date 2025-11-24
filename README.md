@@ -1,11 +1,11 @@
 # Hi there! I'm Ioana Marica
 
-### 🎓 Computer Science Student
+### Computer Science Student
 I am a curious and motivated Computer Science student at [BBU - Faculty of Mathematics and Computer Science, German line], focused on developing robust and scalable software. I specialize in understanding architecture (design patterns, clean code) and applying tools with real-world impact.
 
 ---
 
-### 🛠️ Core Technical Skills
+### Core Technical Skills
 | Category | Competencies | Level |
 | :--- | :--- | :--- |
 | **Programming Languages** | Java, Python, C++ | Intermediate |
@@ -37,6 +37,6 @@ Please explore my main repositories, which showcase proficiency in diverse archi
 * **Technical Proof:** The project is organized into a clear **three-layered architecture (Domain, Repository, UI)**, emphasizing **Encapsulation** and **file-based persistence**.
 
 ---
-### 📬 Contact
+### Contact
 * **Email:** [loanamarica66@gmail.com]
 * **LinkedIn:** [https://www.linkedin.com/in/ioana-marica-814106392/]
